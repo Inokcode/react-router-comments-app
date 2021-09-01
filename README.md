@@ -8,7 +8,7 @@ Project for react router implementation
 
 **Client:** React, react-router-dom
 
-**Server:** No
+**Server:** Firebase
 
   
 ## Features
@@ -17,6 +17,7 @@ Project for react router implementation
 - "Prompt" to avoid user from page*
 - Query parameter for sorting list*
 - useRouteMatch
+- 
 
   
 ## Screenshots
