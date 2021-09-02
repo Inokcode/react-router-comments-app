@@ -17,12 +17,15 @@ Project for react router implementation
 - "Prompt" to avoid user from page*
 - Query parameter for sorting list*
 - useRouteMatch
-- 
+- addcomment function using router URL
 
   
 ## Screenshots
 
-![App Screenshot](./public/logo512.png)
+![App Screenshot](./public/screen1.png)
+![App Screenshot](./public/screen2.png)
+![App Screenshot](./public/screen3.png)
+![App Screenshot](./public/screen4.png)
 
   
 ## Demo

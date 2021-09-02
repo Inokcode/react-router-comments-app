@@ -26,6 +26,7 @@ const NewCommentForm = (props) => {
 
     // send comment to server
     sendRequest({ commentData: { text: enteredText }, quoteId: props.quoteId });
+    commentTextRef.current.value = '';
   };
 
   return (
